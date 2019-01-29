@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2018/02/17/bridge.jpg"
 layout: landing-page
 heading: Testing Forestry.io
 partners:
@@ -22,7 +22,7 @@ textline: |
 
   Ora et Labora
 hero_button:
-  text: Learn more
+  text: Request Demo
   href: "/about"
 show_news: true
 show_staff: false
